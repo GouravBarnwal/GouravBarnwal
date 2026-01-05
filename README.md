@@ -6,7 +6,7 @@ I am a Computer Science undergraduate with hands-on experience in building scala
 ---
 
 ## 🔭 What I’m Currently Working On
-- Working on **TickerPulse** — implementing an agentic AI–driven data ingestion pipeline, integrating external financial APIs, and resolving CORS issues between React and FastAPI while managing PostgreSQL data flow. 
+- Working on **TickerPulse** — implementing an LLM-assisted backend data ingestion pipeline, integrating external financial APIs, and resolving CORS issues between React and FastAPI while managing PostgreSQL data flow. 
 - Strengthening **Data Structures & Algorithms** with interview-focused Medium problems  
 - Building **production-style full-stack applications** using React and FastAPI  
 - Applying **machine learning** to real datasets such as satellite imagery and financial data
