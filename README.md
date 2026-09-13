@@ -163,7 +163,7 @@ Worked on software development and application engineering.
 
 ### B.Tech — Computer Science & Engineering
 
-**CGPA:** 7.27
+**CGPA:** 7.34
 
 ---
 
